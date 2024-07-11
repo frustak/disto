@@ -87,7 +87,7 @@ onMounted(() => {
     />
     <div ref="containerElement" class="canvas"></div>
     <div ref="planeElement" class="plane">
-      <img src="/image.png" ref="imageElement" />
+      <img src="/image.jpg" ref="imageElement" />
     </div>
   </main>
 </template>
